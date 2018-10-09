@@ -1,1 +1,2 @@
 dev push origin
+master push origin
